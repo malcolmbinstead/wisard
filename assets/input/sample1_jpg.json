@@ -1,0 +1,15 @@
+{
+    "init": [
+        "View0,setScale,0.8",
+        "View0,setRotate,0.0",
+        "Threshold0,setThresh,0.25"
+    ],
+    "teach1": [],
+    "test1": [],
+    "teach2": [],
+    "test2": [],
+    "teach3": [],
+    "test3": [],
+    "teach4": [],
+    "test4": []
+}
